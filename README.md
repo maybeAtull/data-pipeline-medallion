@@ -1,4 +1,4 @@
-Project Description 
+**#Project Description **
 Designed and implemented an end-to-end data pipeline using Medallion Architecture (Bronze, Silver, Gold) for scalable and structured data processing
 Developed an API ingestion pipeline to extract data and store it in the Bronze layer (Delta format) with ingestion timestamps for traceability
 Built a Silver layer transformation pipeline with:
